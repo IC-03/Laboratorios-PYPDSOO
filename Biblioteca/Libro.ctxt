@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Libro
+comment1.params=titulo\ autor\ idioma\ anhoPublicacion\ numeroPaginas\ cantDisponible\ genero\ editorial
+comment1.target=Libro(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getGenero()
+comment3.params=genero
+comment3.target=void\ setGenero(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getEditorial()
+comment5.params=
+comment5.target=void\ mostrarInformacion()
+numComments=6

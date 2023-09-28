@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MaterialFisico
+comment1.params=titulo\ autor\ idioma\ anhoPublicacion\ numeroPaginas\ cantDisponible
+comment1.target=MaterialFisico(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getNumeroPaginas()
+comment3.params=
+comment3.target=int\ getCantDisponible()
+comment4.params=
+comment4.target=void\ prestar()
+comment5.params=
+comment5.target=void\ mostrarInformacion()
+numComments=6
