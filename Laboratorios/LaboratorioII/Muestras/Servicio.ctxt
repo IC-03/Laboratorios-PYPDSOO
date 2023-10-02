@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Servicio
+comment1.params=
+comment1.target=Servicio()
+comment2.params=m
+comment2.target=void\ agregarMuestra(Muestra)
+comment3.params=
+comment3.target=Muestra[]\ getMuestrasEspecializadas()
+comment4.params=
+comment4.target=Muestra[]\ getMuestrasSimples()
+numComments=5

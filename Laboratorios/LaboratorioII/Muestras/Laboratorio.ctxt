@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Laboratorio
+comment1.params=
+comment1.target=Laboratorio()
+comment2.params=s
+comment2.target=void\ agregarServicio(Servicio)
+comment3.params=m\ num
+comment3.target=void\ registrarMuestra(Muestra,\ int)
+comment4.params=
+comment4.target=void\ mostrarInformeLaboratorio()
+numComments=5

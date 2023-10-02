@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=MaterialDigital
-comment1.params=titulo\ autor\ idioma\ anhoPublicacion\ formato
-comment1.target=MaterialDigital(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
-comment2.params=
-comment2.target=java.lang.String\ getFormato()
-comment3.params=
-comment3.target=void\ mostrarInformacion()
-numComments=4

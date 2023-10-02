@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MaquinaDeCafe
+comment1.params=
+comment1.target=MaquinaDeCafe()
+comment2.params=
+comment2.target=int\ cacularPrecio()
+comment3.params=
+comment3.target=void\ entregarCafe()
+comment4.params=
+comment4.target=int\ calcularCambio()
+comment5.params=unidades
+comment5.target=void\ recibirCantidadOnzas(int)
+comment6.params=dinero
+comment6.target=void\ recibirDinero(int)
+comment7.params=
+comment7.target=void\ recargarNivel()
+numComments=8

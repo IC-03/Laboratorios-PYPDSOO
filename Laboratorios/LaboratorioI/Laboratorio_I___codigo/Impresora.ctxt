@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Impresora
+comment1.params=
+comment1.target=Impresora()
+comment2.params=
+comment2.target=void\ encender()
+comment3.params=
+comment3.target=void\ apagar()
+comment4.params=cantidadHojas
+comment4.target=void\ ponerPapel(int)
+comment5.params=documento
+comment5.target=void\ imprimir(java.lang.String)
+numComments=6

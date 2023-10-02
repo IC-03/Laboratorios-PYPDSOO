@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Carro
+comment1.params=modelo\ anho\ precio\ color\ mapa
+comment1.target=Carro(java.lang.String,\ int,\ double,\ Color,\ Mapa)
+comment10.params=precio
+comment10.target=void\ setPrecio(double)
+comment2.params=
+comment2.target=void\ obtenerRuta()
+comment3.params=
+comment3.target=Color\ getColor()
+comment4.params=
+comment4.target=java.lang.String\ getModelo()
+comment5.params=
+comment5.target=int\ getAnho()
+comment6.params=
+comment6.target=double\ getPrecio()
+comment7.params=color
+comment7.target=void\ setColor(Color)
+comment8.params=modelo
+comment8.target=void\ setModelo(java.lang.String)
+comment9.params=anho
+comment9.target=void\ setAnho(int)
+numComments=11

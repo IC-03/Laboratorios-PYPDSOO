@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ruta
+comment1.params=id
+comment1.target=Ruta(int)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.lang.String[]\ getParadas()
+comment4.params=id
+comment4.target=void\ setId(int)
+comment5.params=parada
+comment5.target=void\ agregarParada(java.lang.String)
+comment6.params=
+comment6.target=void\ imprimirRuta()
+numComments=7
