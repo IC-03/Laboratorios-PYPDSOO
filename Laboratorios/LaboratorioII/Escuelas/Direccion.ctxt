@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Direccion
+comment1.params=texto\ barrio\ ciudad
+comment1.target=Direccion(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTexto()
+comment3.params=
+comment3.target=java.lang.String\ getBarrio()
+comment4.params=
+comment4.target=java.lang.String\ getCiudad()
+numComments=5

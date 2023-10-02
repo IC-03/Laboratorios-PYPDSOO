@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment1.params=nombre\ nivel\ dir
+comment1.target=Estudiante(java.lang.String,\ int,\ Direccion)
+comment2.params=d
+comment2.target=void\ setDir(Direccion)
+comment3.params=
+comment3.target=int\ getNivel()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=Direccion\ getDir()
+numComments=6
