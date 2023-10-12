@@ -19,6 +19,8 @@ Fueron desarrollados principalmente en Java con el editor de BlueJ, cada laborat
 📂 Laboratorio #3: Sobre herencia y polimorfismo
   - Código + Informe [Aquí](https://github.com/IC-03/Laboratorios-PYPDSOO/tree/main/Laboratorios/LaboratorioIII)
 
+📂 Laboratorio #4: Ejercicios para practicar
+  - Código + Informe [Aquí](https://github.com/IC-03/Laboratorios-PYPDSOO/tree/main/Laboratorios/LaboratorioIV)
 ---
 
 ## Proyecto Final:
