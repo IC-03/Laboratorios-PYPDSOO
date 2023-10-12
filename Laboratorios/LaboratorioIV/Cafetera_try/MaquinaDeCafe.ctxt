@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MaquinaDeCafe
+comment1.params=
+comment1.target=MaquinaDeCafe()
+comment10.params=
+comment10.target=java.lang.Integer\ calcularCambio()
+comment11.params=
+comment11.target=void\ entregarCafe()
+comment12.params=onzasAgregar
+comment12.target=void\ recargarNivel(java.lang.Integer)
+comment2.params=nivel\ nivelMax\ saldo\ valorOnza
+comment2.target=MaquinaDeCafe(java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer)
+comment3.params=
+comment3.target=java.lang.Integer\ getNivel()
+comment4.params=
+comment4.target=java.lang.Integer\ getNivelMax()
+comment5.params=
+comment5.target=java.lang.Integer\ getSaldo()
+comment6.params=
+comment6.target=java.lang.Integer\ getValorOnza()
+comment7.params=unidades
+comment7.target=void\ pedirCafe(java.lang.Integer)
+comment8.params=dinero
+comment8.target=void\ recibirDinero(java.lang.Integer)
+comment9.params=
+comment9.target=java.lang.Integer\ cacularPrecio()
+numComments=13

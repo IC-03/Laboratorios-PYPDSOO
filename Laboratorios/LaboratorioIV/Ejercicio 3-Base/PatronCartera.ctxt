@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PatronCartera
+comment1.params=
+comment1.target=void\ imprimirListaDeTarjetas()
+comment2.params=t
+comment2.target=void\ agregarTarjeta(Tarjeta)
+numComments=3

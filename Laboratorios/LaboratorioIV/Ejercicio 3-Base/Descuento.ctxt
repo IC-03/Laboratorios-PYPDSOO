@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Descuento
+comment1.params=porcentaje
+comment1.target=Descuento(float)
+comment2.params=monto
+comment2.target=double\ getValorDescontado(double)
+numComments=3

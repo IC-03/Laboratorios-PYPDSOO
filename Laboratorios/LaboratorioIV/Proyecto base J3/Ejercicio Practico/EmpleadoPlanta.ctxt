@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EmpleadoPlanta
+comment1.params=nombre\ apellido\ baseSalarial\ anios
+comment1.target=EmpleadoPlanta(java.lang.String,\ java.lang.String,\ float,\ int)
+comment2.params=
+comment2.target=double\ getBonoAntiguedad()
+comment3.params=
+comment3.target=double\ getAporteASindicato()
+comment4.params=
+comment4.target=double\ calcularSalario()
+numComments=5
