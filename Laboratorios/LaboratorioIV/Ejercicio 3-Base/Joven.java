@@ -1,6 +1,6 @@
 public class Joven extends Tarjeta
 {
-    private Descuento basico;
+    private Descuento basico = Descuento.BASICO;
 
     public Joven(String numeroDeCuenta, double valorApertura){
         super(numeroDeCuenta,valorApertura);
@@ -8,11 +8,6 @@ public class Joven extends Tarjeta
     }
 
     public double cuotaDeManejo(){
-        if (basico != null) {
-            return 20000 - basico.getValorDescontado(getValorApertura());
-        } else {
-            // Manejar el caso donde basico es null
-            return 20000; // Otra acción apropiada en caso de que basico no esté definido.
-        }
+        return Math.round(20000 - basico.getValorDescontado(getValorApertura()));
     }
 }
