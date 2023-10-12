@@ -1,6 +1,6 @@
 public enum Descuento
 {
-    BASICO(0.8f),  //tarjeta joven
+    BASICO(0.08f),  //tarjeta joven
     PLATINO(0.12f), //tarjeta nomina
     DIAMANTE(0.15f); //tarjeta visa
     
